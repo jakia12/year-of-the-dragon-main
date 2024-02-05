@@ -1,7 +1,7 @@
 /* hero sec */
 
 body {
-  background-image: linear-gradient(#00000041, #0000003d), url(/images/bg.jpg);
+  background-image: url(/images/bg.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
